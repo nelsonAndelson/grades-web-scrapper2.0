@@ -1,20 +1,42 @@
-# grades-web-scrapper2.0
+# Project Overview
 
-**Project Overview:**
-This Node.js and Puppeteer.js project automates authentication and web scraping to collect and store students' grades in JSON and Excel formats.
+This Node.js and Puppeteer.js project automates the authentication process and performs web scraping to efficiently collect and store students' grades in both JSON and Excel formats.
 
-Installation:
+## Installation
 
-Node.js: If you haven't already, install Node.js by downloading it from nodejs.org and following the installation instructions for your operating system.
+### Node.js
 
-Clone the Project: Clone your project repository to your local machine using a Git command or by downloading the ZIP file.
+Make sure you have Node.js installed on your machine. If not, download it from [nodejs.org](https://nodejs.org/) and follow the installation instructions for your operating system.
 
-Navigate to Project Directory: Open your terminal or command prompt, navigate to the project directory where you cloned/downloaded the project.
+### Clone the Project
 
-Install Dependencies: Run the following command to install project dependencies using npm: npm install 
+Clone the project repository to your local machine using Git or by downloading the ZIP file.
 
-This command will install all the required packages specified in your project's package.json file.
+```bash
+git clone nelsonAndelson/grades-web-scrapper2.0
+```
 
-Start the Application: Once the dependencies are installed, you can start your project using: npm start
+### Install Dependencies
 
-That's it! Your project should now be up and running. If you encounter any issues during installation or while starting the application, feel free to reach out for assistance.
+Make sure to navigate to project directory. Run the following command to install project dependencies using npm:
+
+```bash
+npm install
+```
+
+
+This command installs all the required packages specified in your project's ` package.json ` file.
+Your project is now up and running!
+
+### Known Issues
+Please note that this project is currently in active development, and the code may contain some bugs. We appreciate your understanding as we work to enhance and stabilize the functionality.
+
+### Assistance
+If you encounter any issues during installation or while starting the application, feel free to reach out for assistance.
+nelsonbaguma15@gmail.com
+
+
+### Contributing
+We welcome contributions! If you find bugs or have suggestions for improvements, please open an issue or submit a pull request.
+
+Thank you for using our Puppeteer.js Node.js project! Happy coding!
